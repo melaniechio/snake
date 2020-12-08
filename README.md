@@ -1,7 +1,7 @@
 # Snake
 Simple game of 🐍 made for CSE316: Foundations of Software Development Fall 2020. 
 
-Check it out <a href="https://melaniechio.github.io/snake/">here</a>!
+Check it out <a href="https://melaniechio.github.io/snake/" target="_blank">here</a>!
 
 ## Rules
 * Try to eat all of the CSE course numbers!
