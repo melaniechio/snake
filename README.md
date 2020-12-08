@@ -8,11 +8,11 @@ Check it out <a href="https://melaniechio.github.io/snake/">here</a>!
 * Avoid running into walls and eating your own tail.
 
 ## Sample Screens
-This is the starting screen. 🐍
+* Starting Screen: 
 ![Start Screen](https://github.com/melaniechio/snake/blob/main/images/start.png?raw=true)
 
-This is the winning screen. 🎉
+* Winning Screen:
 ![Win Screen](https://github.com/melaniechio/snake/blob/main/images/win.png?raw=true)
 
-This is the losing screen. 👻
+* Losing Screen:
 ![Lose Screen](https://github.com/melaniechio/snake/blob/main/images/lose.png?raw=true)
